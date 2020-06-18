@@ -1,0 +1,12 @@
+1 False
+2 True
+3 True
+4 False
+5 False
+6 True
+7 E
+8 True
+9 True
+10 True
+11 False
+12 True

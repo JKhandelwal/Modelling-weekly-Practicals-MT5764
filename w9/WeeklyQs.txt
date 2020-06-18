@@ -1,0 +1,6 @@
+1 A
+2 True
+3 False
+4 C
+5 True
+6 False

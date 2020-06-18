@@ -1,0 +1,14 @@
+1 E
+2 A
+3 True
+4 True
+5 True
+6 false
+7 true
+8 true
+9 false
+10 True
+11 True
+12 True
+13 True
+14 true

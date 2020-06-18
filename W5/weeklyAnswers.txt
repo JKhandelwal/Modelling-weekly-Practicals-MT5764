@@ -1,0 +1,7 @@
+1 C
+2 True
+3 D
+4 C
+5 C
+6 True
+7 False

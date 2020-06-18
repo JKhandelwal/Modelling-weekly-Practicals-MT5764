@@ -1,0 +1,9 @@
+1 D
+2 C
+3 False
+4 True
+5 False
+6 E
+7 C
+8 C
+9 E
